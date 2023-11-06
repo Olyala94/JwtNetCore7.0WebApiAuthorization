@@ -2,6 +2,12 @@
 
 Hello Everyone,
 
-I'd like to share a small project I've developed with you. I've built this project using .NET 7.0 and bolstered its security by implementing JSON Web Token (JWT) authentication.
+I would like to share a small project I have developed with you. I built this project using .NET 7.0 and enhanced the application's security by utilizing JSON Web Token (JWT).
 
-The code includes an example of JWT token creation and user authentication. I've learned many new things while working on this project.
+Key features of my project include:
+
+🔐 Authentication and Authorization: Using JSON Web Token (JWT), I ensured that users can securely log in and access specific API routes only if they are authorized.
+
+🌐 Web API: The Web API I created with .NET 7.0 provides a robust platform for data exchange.
+
+🚀 Learning Experience: While developing this project, I gained significant experience in tasks such as JWT token creation and user authentication. What I've learned during this project has been invaluable to me.
